@@ -2,7 +2,7 @@
 <h3>ENTER YOUR NAME : NaveenKumar M</h3>
 <h3>ENTER YOUR REGISTER NO : 212224230183</h3>
 <h3>EX. NO : 4</h3>
-<h3>DATE : 09.3.2026</h3>
+<h3>DATE : 23.3.2026</h3>
 
 ## AIM:
 To perform Matrix addition with unified memory and check its performance with nvprof.
